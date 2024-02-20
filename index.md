@@ -1,3 +1,2 @@
-# Header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-edditing the file to put in a header.
